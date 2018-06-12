@@ -1,0 +1,11 @@
+@startuml
+start
+-->HlsRendererBuilder
+-->AsyncRendererBuilder
+-->HlsChunkSource
+-->getChunkOperation
+-->HlsMediaPlaylist.Segment segment = mediaPlaylist.segments.get(chunkIndex);
+       -->Uri chunkUri = UriUtil.resolveToUri(mediaPlaylist.baseUri, segment.url);
+
+stop
+@enduml

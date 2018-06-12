@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_focused="true" android:drawable="@drawable/btn_down_focused" />
+    <item android:state_focused="false" android:drawable="@drawable/btn_down_focuse" />
+    <item android:drawable="@drawable/btn_down_focuse" />
+
+</selector>

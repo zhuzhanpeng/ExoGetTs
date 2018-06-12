@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [:library] /Users/edison/dev/project/ExoGetTs/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/45dc10dc01b22c34e64b8958d0807bbc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0c66c688501eafb9177a1928bfbf8868/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/36067f3d01709f6934c5266cd36a299d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/1f3878d5360b4ce7a265453838344cca/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/407d0bef2a76cd2e12ecb952c56c2ea6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/4d84fa1bda6621af206442d34d11a677/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/4a1510b378d15babeef8eb833993dd2b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/d40863cee09a2d77b573a16db4dfad1a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/4b10308cd4caf84ff68b81113728215c/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+		INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:8:22-70
+application
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:10:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/45dc10dc01b22c34e64b8958d0807bbc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/45dc10dc01b22c34e64b8958d0807bbc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0c66c688501eafb9177a1928bfbf8868/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0c66c688501eafb9177a1928bfbf8868/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/36067f3d01709f6934c5266cd36a299d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/36067f3d01709f6934c5266cd36a299d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/1f3878d5360b4ce7a265453838344cca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/1f3878d5360b4ce7a265453838344cca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/407d0bef2a76cd2e12ecb952c56c2ea6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/407d0bef2a76cd2e12ecb952c56c2ea6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/4d84fa1bda6621af206442d34d11a677/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/4d84fa1bda6621af206442d34d11a677/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/4a1510b378d15babeef8eb833993dd2b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/4a1510b378d15babeef8eb833993dd2b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/d40863cee09a2d77b573a16db4dfad1a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/d40863cee09a2d77b573a16db4dfad1a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/4b10308cd4caf84ff68b81113728215c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/4b10308cd4caf84ff68b81113728215c/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:15:9-59
+activity#com.onairm.hd4tv.online.activity.MainActivity
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:17:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:21:27-74
+activity#com.onairm.hd4tv.online.activity.ExoPlayerActivity
+ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:24:9-64
+	android:name
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml:24:19-61
+uses-sdk
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+MERGED from [:library] /Users/edison/dev/project/ExoGetTs/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:library] /Users/edison/dev/project/ExoGetTs/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/45dc10dc01b22c34e64b8958d0807bbc/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/45dc10dc01b22c34e64b8958d0807bbc/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0c66c688501eafb9177a1928bfbf8868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0c66c688501eafb9177a1928bfbf8868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/36067f3d01709f6934c5266cd36a299d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/36067f3d01709f6934c5266cd36a299d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/1f3878d5360b4ce7a265453838344cca/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/1f3878d5360b4ce7a265453838344cca/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/407d0bef2a76cd2e12ecb952c56c2ea6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/407d0bef2a76cd2e12ecb952c56c2ea6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/4d84fa1bda6621af206442d34d11a677/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/4d84fa1bda6621af206442d34d11a677/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/4a1510b378d15babeef8eb833993dd2b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/4a1510b378d15babeef8eb833993dd2b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/d40863cee09a2d77b573a16db4dfad1a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/d40863cee09a2d77b573a16db4dfad1a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/4b10308cd4caf84ff68b81113728215c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/4b10308cd4caf84ff68b81113728215c/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/45dc10dc01b22c34e64b8958d0807bbc/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+		INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+		ADDED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+		INJECTED from /Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/45dc10dc01b22c34e64b8958d0807bbc/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0c66c688501eafb9177a1928bfbf8868/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0c66c688501eafb9177a1928bfbf8868/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/36067f3d01709f6934c5266cd36a299d/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/36067f3d01709f6934c5266cd36a299d/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/1f3878d5360b4ce7a265453838344cca/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/1f3878d5360b4ce7a265453838344cca/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/407d0bef2a76cd2e12ecb952c56c2ea6/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/407d0bef2a76cd2e12ecb952c56c2ea6/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/4d84fa1bda6621af206442d34d11a677/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/4d84fa1bda6621af206442d34d11a677/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/4a1510b378d15babeef8eb833993dd2b/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/4a1510b378d15babeef8eb833993dd2b/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/d40863cee09a2d77b573a16db4dfad1a/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/d40863cee09a2d77b573a16db4dfad1a/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/4b10308cd4caf84ff68b81113728215c/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/4b10308cd4caf84ff68b81113728215c/AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/45dc10dc01b22c34e64b8958d0807bbc/AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/edison/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/45dc10dc01b22c34e64b8958d0807bbc/AndroidManifest.xml:27:13-51

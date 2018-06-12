@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":library"><source path="/Users/edison/dev/project/ExoGetTs/library/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/edison/dev/project/ExoGetTs/onlinemodule/src/main/assets"/><source path="/Users/edison/dev/project/ExoGetTs/onlinemodule/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/edison/dev/project/ExoGetTs/onlinemodule/src/debug/assets"/></dataSet></merger>

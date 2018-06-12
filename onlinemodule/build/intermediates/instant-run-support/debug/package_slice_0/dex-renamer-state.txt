@@ -1,0 +1,4 @@
+#Tue Jun 12 10:25:17 CST 2018
+base.0=/Users/edison/dev/project/ExoGetTs/onlinemodule/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

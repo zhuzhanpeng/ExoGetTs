@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:17:1-27:12
+	package
+		ADDED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:18:5-43
+		INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:25:3-70
+INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:25:3-70
+INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:25:3-70
+INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:25:3-70
+INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:25:3-70
+	android:targetSdkVersion
+		ADDED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:25:39-68
+		INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml:25:13-38
+		INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/edison/dev/project/ExoGetTs/library/src/main/AndroidManifest.xml
